@@ -17,7 +17,7 @@ var createCounter = function(init) {
     return operations
 };
 
-
+/*Test code*/
 const counter = createCounter(5)
 counter.increment(); // 6
 counter.reset(); // 5
